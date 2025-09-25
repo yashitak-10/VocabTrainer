@@ -29,7 +29,7 @@
   --card-strong: rgba(185, 188, 196, 0.432);
   --input-bg: rgba(255,255,255,0.95);
 }
-[data-theme="light"] body {background: linear-gradient(70deg, var(--bg) 0%, #80648b 70%, #e6f0fa 100%); color: var(--text);}
+[data-theme="light"] body {background: linear-gradient(70deg, var(--bg) 0%, #aba0b1 70%, #e6f0fa 100%); color: var(--text);}
 
 *{box-sizing:border-box;font-family:"Poppins",system-ui,-apple-system,Segoe UI,Roboto,Arial;margin:0;padding:0}
 html,body{height:100%}
